@@ -1,0 +1,5 @@
+﻿Program prog;
+
+Begin
+  
+end.
